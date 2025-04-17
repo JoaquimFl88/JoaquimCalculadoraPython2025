@@ -1,1 +1,1 @@
-Está calculadora faz calculos!!!
+Esta calculadora faz calculos!!!
